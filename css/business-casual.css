@@ -190,3 +190,9 @@ footer p {
         clear: both;
     }
 }
+
+.contact-block {
+    display: inline-block;
+    color: black;
+    text-align: center;
+}
